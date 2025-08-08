@@ -15,7 +15,7 @@ Each project applied real-world datasets, visualization tools, and analytical te
 
 ##  Connect with Me
 
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- **GitHub:** [github.com/millerwchase](https://github.com/millerwchase)
 - **LinkedIn:** [linkedin.com/in/chase-w-miller](https://www.linkedin.com/in/chase-w-miller)
 - **Email:** [millerw.chase@gmail.com](mailto:millerw.chase@gmail.com)
 
